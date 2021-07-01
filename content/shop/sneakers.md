@@ -37,10 +37,14 @@ dimensions : "10 x 10 x 15 cm"
 materials : "100% Leather"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+Teasée depuis plusieurs semaine, la très attendue Nike Dunk High Game Royal voit enfin le jour ! Cette nouvelle édition reprend l'iconique coloris Game Royal, déjà aperçu sur la Nike Dunk Low SP Varsity Royal en clin d'oeil à l'université du Kentucky.
+
+La Nike Dunk High Game Royal arbore une empeigne en cuir blanc, sublimée par des superpositions reprenant un bleu vif. On note un branding Nike sur la languette, tandis que le jeu de couleur entre les deux teintes se poursuit jusque dans les soles, venant créer un résultat simple et harmonieux.
+
+Avec cette réédition d'un des coloris phares du pack Be True To Your School, cette nouvelle Dunk s'annonce déjà comme l'un des plus beaux succès de l'année.
 
 #### Product Features
 
-* Mapped with 3M™ Thinsulate™ Insulation [40G Body / Sleeves / Hood]
-* Embossed Taffeta Lining
-* DRYRIDE Durashell™ 2-Layer Oxford Fabric [10,000MM, 5,000G]
+* SKU : DD1399-102
+* Date de sortie : Juin 2021
+* Colorway : WHITE/GAME ROYAL
