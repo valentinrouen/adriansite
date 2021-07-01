@@ -4,3 +4,4 @@ date: {{ .Date }}
 draft: true
 ---
 
+![banniere](/images/banniere.jpg)
