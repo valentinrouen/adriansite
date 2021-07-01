@@ -12,7 +12,7 @@ slider:
         link : "shop"
         
     # slider item loop
-    - bgImage : "images/slider/slideshow1-2.jpg"
+    - bgImage : "images/slider/banniere2.jpg"
       subtitle : "Jusqu'à 50% de réduction"
       title : " **Sneakers** d'été"
       button:
@@ -21,7 +21,7 @@ slider:
         link : "shop"
         
     # slider item loop
-    - bgImage : "images/slider/slideshow1-3.jpg"
+    - bgImage : "images/slider/banniere3.png"
       subtitle : "Sneakers de luxe"
       title : " **Edition** Limitée"
       button:
