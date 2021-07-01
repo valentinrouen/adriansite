@@ -59,12 +59,12 @@ link = "plugins/google-map/gmap.js"
 # main menu
 [[menu.main]]
 name = "Boutique"
-URL = "boutique"
+URL = "shop"
 weight = 1
   
 [[menu.main]]
 name = "A propos"
-URL = "a propos"
+URL = "about"
 weight = 2
 
 [[menu.main]]
