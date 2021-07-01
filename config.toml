@@ -144,7 +144,7 @@ weight = 4
 #################### default parameters ################################
 [params]
 logo = "images/logo.png"
-home = "Home"
+home = "Accueil"
 # Meta data
 description = "This is meta description"
 author = "Themefisher"
