@@ -3,7 +3,7 @@ slider:
   enable : true
   sliderItem:
     # slider item loop
-    - bgImage : "images/slider/banniere.jpg"
+    - bgImage : "banniere.jpg"
       subtitle : "Nouvelle sortie"
       title : " **20% de réduction** sur tout"
       button:
