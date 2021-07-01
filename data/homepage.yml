@@ -5,7 +5,7 @@ slider:
     # slider item loop
     - bgImage : "images/slider/slideshow1-1.jpg"
       subtitle : "Winter Collection Sale"
-      title : " **70% off** to everything"
+      title : " **70% de réduction** sur tout"
       button:
         enable : true
         label : "Shop Now"
