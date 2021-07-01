@@ -7,7 +7,7 @@ draft: false
 description : "Nice and classy Keds"
 
 # page title background image
-bgImage : "images/backgrounds/header-bg.jpg"
+bgImage : "images/backgrounds/banniere.jpg"
 
 # product Images
 # first image will be shown in the product page
@@ -15,7 +15,7 @@ images:
   - "images/products/shoe-3.jpg"
 
 # product Price
-price: "49.00"
+price: "200.00"
 priceBefore: ""
 
 # categories
