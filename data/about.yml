@@ -1,12 +1,11 @@
-########################## A propos ############################
+########################## About ############################
 about:
   enable : true
   aboutItem:
     # about item loop
-    - title : "Our Mission"
-      image : "images/about/about-1.jpg"
-      content : "Praesent blandit dolorhon quam. In vemi sit amet augue congue elementum. Morbi in ipsum sit amet pede
-            facilisis laoreet."
+    - title : "Nos Missions"
+      image : "images/about/banniere.jpg"
+      content : "Bonjour, je suis sur la page a propos c'est super genial."
             
     # about item loop
     - title : "Our Vission"
