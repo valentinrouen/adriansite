@@ -3,7 +3,7 @@ slider:
   enable : true
   sliderItem:
     # slider item loop
-    - bgImage : "banniere.jpg"
+    - bgImage : "images/banniere.jpg"
       subtitle : "Nouvelle sortie"
       title : " **20% de réduction** sur tout"
       button:
@@ -14,7 +14,7 @@ slider:
     # slider item loop
     - bgImage : "images/slider/slideshow1-2.jpg"
       subtitle : "Jusqu'à 50% de réduction"
-      title : " **Classique** Style"
+      title : " **Sneakers** d'été"
       button:
         enable : true
         label : "Achetez maintenant"
