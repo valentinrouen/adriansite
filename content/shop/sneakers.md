@@ -16,7 +16,7 @@ images:
 
 # product Price
 price: "200.00"
-priceBefore: ""
+priceBefore: "250"
 
 # categories
 categories : ["shoe"]
