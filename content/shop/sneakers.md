@@ -7,7 +7,7 @@ draft: false
 description : "Sneakers de luxe"
 
 # page title background image
-bgImage : "images/backgrounds/banniere.jpg"
+bgImage : "images/backgrounds/banniere4.png"
 
 # product Images
 # first image will be shown in the product page
