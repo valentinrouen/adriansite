@@ -13,20 +13,20 @@ slider:
         
     # slider item loop
     - bgImage : "images/slider/slideshow1-2.jpg"
-      subtitle : "up to 70% off"
-      title : " **Classic** Style"
+      subtitle : "Jusqu'à 50% de réduction"
+      title : " **Classique** Style"
       button:
         enable : true
-        label : "Shop Now"
+        label : "Achetez maintenant"
         link : "shop"
         
     # slider item loop
     - bgImage : "images/slider/slideshow1-3.jpg"
-      subtitle : "Trendy dress"
-      title : " **Winter** Collection"
+      subtitle : "Sneakers de luxe"
+      title : " **Edition** Limitée"
       button:
         enable : true
-        label : "Shop Now"
+        label : "Achetez maintenant"
         link : "shop"
 
 
