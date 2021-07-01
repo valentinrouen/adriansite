@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/adrian/"
+baseURL = "https://adriansite.netlify.app/"
 languageCode = "en-us"
 title = "Adrian Hugo | E-commerce template"
 theme = "adrian-hugo"
@@ -58,13 +58,13 @@ link = "plugins/google-map/gmap.js"
 
 # main menu
 [[menu.main]]
-name = "Shop"
-URL = "shop"
+name = "Boutique"
+URL = "boutique"
 weight = 1
   
 [[menu.main]]
-name = "About"
-URL = "about"
+name = "A propos"
+URL = "a propos"
 weight = 2
 
 [[menu.main]]
@@ -101,12 +101,12 @@ weight = 4
 
 # useful links
 [[menu.useful_links]]
-name = "Shop"
+name = "Boutique"
 URL = "shop"
 weight = 1
 
 [[menu.useful_links]]
-name = "About"
+name = "A propos"
 URL = "about"
 weight = 2
 
