@@ -9,7 +9,7 @@ slider:
       button:
         enable : true
         label : "Achetez maintenant"
-        link : "shop/black-tops"
+        link : "shop/sneakers"
         
     # slider item loop
     - bgImage : "images/slider/banniere2.jpg"
