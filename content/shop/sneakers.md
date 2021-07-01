@@ -1,10 +1,10 @@
 ---
-title: "Sneakers"
+title: "Dunk High Game Royal"
 date: 2019-11-25T13:39:07+06:00
 draft: false
 
 # meta description
-description : "Nice and classy Keds"
+description : "Sneakers de luxe"
 
 # page title background image
 bgImage : "images/backgrounds/banniere.jpg"
@@ -12,7 +12,7 @@ bgImage : "images/backgrounds/banniere.jpg"
 # product Images
 # first image will be shown in the product page
 images:
-  - "images/products/shoe-3.jpg"
+  - "images/products/image1.png"
 
 # product Price
 price: "200.00"
